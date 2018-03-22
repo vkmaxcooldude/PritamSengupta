@@ -542,7 +542,7 @@ h3.w3-title {
 }
 .w3l-about-content1 {
     background: #00c4ff;
-    width: 82%;
+    width: 100%;
 }
 .w3l-about-content2{
 	position:absolute;
@@ -550,9 +550,14 @@ h3.w3-title {
     top: 30%;
 }
 .agile-about-text {
-    width: 54%;
-    padding: 7em 2em 7em 13em;
+    width: 50%;
+    padding: 7em 7em 7em 7em;
 }
+
+.logo-padding{
+	padding: 3em 3em 3em 3em;
+}
+
 h4.w3-title {
 	font-size:2em;
 	color:#fff;
@@ -1932,6 +1937,7 @@ img.img3{
 	}
 
 }
+
 @font-face {
   font-family: "icomoon";
   src:  url("fonts/icomoon.eot?1714dz");
