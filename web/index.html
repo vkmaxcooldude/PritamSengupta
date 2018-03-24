@@ -3,7 +3,7 @@ Author: Vishal Kumar
 Author E-Mail: vishalk.engg@gmail.com
 -->
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 <head>
 <link rel="shortcut icon" href="images/ps_logo.ico" />
 <title>Pritam Sengupta</title>
@@ -42,7 +42,7 @@ Author E-Mail: vishalk.engg@gmail.com
 					<span class="icon-bar"></span>
 				  </button>
 					<div class="logo">
-						<h1><a class="navbar-brand" href="index.html"><i class="icon-pslogo"></i> Pritam Sengupta</a></h1>
+						<h1><a class="navbar-brand" href="index.html"> Pritam Sengupta</a></h1>
 					</div>
 				</div>
 
@@ -150,20 +150,22 @@ Author E-Mail: vishalk.engg@gmail.com
 <!-- //Tooltip -->
 <!-- About -->
 <div class="agileits-about-main" id="about">
-<div class="container">
+<div class="container container-padding">
 	<h3 class="w3-title text-center">about us</h3>
 	<div class="agileits-about">
-		<div class="col-md-6 col-sm-12 col-xs-12 w3l-about-content1">
-		   <div class="agile-about-text">
-			<h4 class="w3-title">"Coming together is a beginning, keeping together is progress, working together is success." -Henry Ford</h4>
+		<div class="col-md-12 col-sm-12 col-xs-12 w3l-about-content1"> <!--Box Width by w3l-about-content1-->
+
+				 <div class="col-md-6 col-sm-6 col-xs-6 agile-about-text">
+			<h4 class="w3-title">"A dream does not become reality through magic. It takes sacrifice, sweat, determination, team spirit and hard work.</h4>
 			<p>With Pritam Sengupta, the sole objective is on the combined effort we must put at developing smart and abstract projects. We aim at developing new ideas and implementing new technologies to create an impeccable masterpiece for you.</p>
-		   </div>
+				 </div>
+			 <div class="col-md-6 col-sm-6 col-xs-6 logo-padding">
+				 <img src="images/New_Logo_2.png" alt="Pritam Sengupta Logo" class="img-responsive logo-padding">
+			</div>
 		</div>
-		<div class="col-md-6 col-sm-12 col-xs-12 w3l-about-content2">
-			<video class="agile-media" width="600" controls>
-			  <source src="videos/1.mp4" type="video/mp4">
-			</video>
-		</div>
+	<!--	<div class="col-md-6 col-sm-12 col-xs-12 w3l-about-content2">
+			<img src="images/New_Logo_2.png" class="img-responsive" height="auto" width="auto" padding="5em">
+		</div> -->
 		<div class="clearfix"></div>
 	</div>
 </div>
@@ -234,20 +236,6 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 </div>
 <!-- service -->
-<!--newsletter-->
-<div class="agileits-newletter">
-	<div class="container">
-			<div class="newsletter text-center">
-				<h2>Subscribe to our mailing list , to get our updates to your inbox</h2>
-				<form action="#" method="post" class="agile-form">
-					<input type="email" name="email" size="30" required="" placeholder="Your email" />
-					<input type="submit" value="Subscribe"/>
-				</form>
-				<p>Sed convallis blandit enim tempor.Pelesque maximus massa id dui conval,Sed convallis blandit enim tempor.massa id dui conval.</p>
-            </div>
-	</div>
-</div>
-<!--//newsletter-->
 <!-- team -->
 <div class="agileits-team" id="clients">
 	<div class="container">
@@ -578,7 +566,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 				<div class="col-md-11 col-sm-11 col-xs-11 w3_agile-contact-text">
 					<h5>address</h5>
-					<p>Manali Apartment (B2), Bata More, North Jagtala, Maheshtala, Kolkata- 700 141, West Bengal, India.</p>
+					<p>Golok Dham (A-1), Bata More, North Jagtala, Maheshtala, Kolkata -700141, West Bengal, India.</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -606,12 +594,12 @@ Author E-Mail: vishalk.engg@gmail.com
 			<div class="clearfix"></div>
 		</div>
 		<div class="col-md-7 col-sm-7 col-xs-6 contact-right-w3l">
-			<form action="#" method="post">
-				<input type="text" class="name" name="name" placeholder="First Name" required="">
-				<input type="text" class="name" name="name" placeholder="Last Name" required="">
-				<input type="email" class="name" name="name" placeholder="Email" required="">
-				<input type="text" class="name" name="name" placeholder="Subject" required="">
-				<textarea placeholder="Your Message" required=""></textarea>
+			<form action="report.php" method="post" name="emailform">
+				<input type="text" class="name" id="firstname" name="firstname" placeholder="First Name" required="">
+				<input type="text" class="name" id="lastname" name="lastname" placeholder="Last Name" required="">
+				<input type="email" class="name" id="email" name="email" placeholder="Email" required="">
+				<input type="text" class="name" id="subject" name="subject" placeholder="Subject" required="">
+				<textarea placeholder="Your Message" id="body" name="body" required=""></textarea>
 				<input type="submit" value="SEND MESSAGE">
 			</form>
 		</div>
@@ -622,13 +610,13 @@ Author E-Mail: vishalk.engg@gmail.com
 <!-- //contact -->
 <!--map-->
 <div class="agileits_w3layouts-map">
-	<iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJaSiA0RZ8AjoRb90OQk-zLII&key=AIzaSyDOq9T9eiB_DUnXLXUV0ek6Wl5lpsuIHzM" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://www.google.com/maps/embed/v1/place?q=22%C2%B030'04.5%22N%2088%C2%B013'55.3%22E&key=AIzaSyDhj_uE0qT2K7SkiL1zLEXePGnL9Nn6yWc" style="border:0" allowfullscreen></iframe>
 </div>
 <!--map-->
 <!--footer-->
 <div class="agileits_w3layouts-footer">
 	<div class="col-md-6 col-sm-4 col-xs-5 agileinfo-logo">
-		<h6 class="w3-header"><a href="index.html"><i class="icon-pslogo" aria-hidden="true"></i> Pritam Sengupta</a></h6>
+		<h6 class="w3-header"><a href="index.html"> Pritam Sengupta</a></h6>
 	</div>
 	<div class="col-md-6 col-sm-8 col-xs-7 agileinfo-copyright">
 		<p>© 2018 Pritam Sengupta. All rights reserved | Developed & Hosted by <a href="mailto:vishalk.engg@gmail.com">Vishal Kumar</a></p>
