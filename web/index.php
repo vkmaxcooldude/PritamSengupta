@@ -129,7 +129,7 @@ Author E-Mail: vishalk.engg@gmail.com
 		<!--banner Slider starts Here-->
 
 </div>
-<!-- Tooltip -->
+<!-- Tooltip Home -->
 <div class="tooltip-content">
 	<div class="modal fade features-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
 		<div class="modal-dialog modal-md">
@@ -148,19 +148,132 @@ Author E-Mail: vishalk.engg@gmail.com
 	<div class="clearfix"></div>
 </div>
 <!-- //Tooltip -->
+<!-- Tooltip Project 1 -->
+<div class="tooltip-content">
+	<div class="modal fade features-modal" id="proj1" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title text-center" style="font-family: 'Tangerine', cursive">Pritam Sengupta</h4>
+				</div>
+				<div class="modal-body">
+					<img src="images/3.jpg" class="img-responsive" alt="image">
+					<p>A Company that is focused on progressing towards success and help it's clients build their dream projects. The company has a rich project history and huge success in it's track records.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //Tooltip -->
+<!-- Tooltip Project 2 -->
+<div class="tooltip-content">
+	<div class="modal fade features-modal" id="proj2" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title text-center" style="font-family: 'Tangerine', cursive">Pritam Sengupta</h4>
+				</div>
+				<div class="modal-body">
+					<img src="images/3.jpg" class="img-responsive" alt="image">
+					<p>A Company that is focused on progressing towards success and help it's clients build their dream projects. The company has a rich project history and huge success in it's track records.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //Tooltip -->
+<!-- Tooltip Project 3 -->
+<div class="tooltip-content">
+	<div class="modal fade features-modal" id="proj3" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title text-center" style="font-family: 'Tangerine', cursive">Pritam Sengupta</h4>
+				</div>
+				<div class="modal-body">
+					<img src="images/3.jpg" class="img-responsive" alt="image">
+					<p>A Company that is focused on progressing towards success and help it's clients build their dream projects. The company has a rich project history and huge success in it's track records.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //Tooltip -->
+<!-- Tooltip Project 4 -->
+<div class="tooltip-content">
+	<div class="modal fade features-modal" id="proj4" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title text-center" style="font-family: 'Tangerine', cursive">Pritam Sengupta</h4>
+				</div>
+				<div class="modal-body">
+					<img src="images/3.jpg" class="img-responsive" alt="image">
+					<p>A Company that is focused on progressing towards success and help it's clients build their dream projects. The company has a rich project history and huge success in it's track records.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //Tooltip -->
+<!-- Tooltip Project 5 -->
+<div class="tooltip-content">
+	<div class="modal fade features-modal" id="proj5" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title text-center" style="font-family: 'Tangerine', cursive">Pritam Sengupta</h4>
+				</div>
+				<div class="modal-body">
+					<img src="images/3.jpg" class="img-responsive" alt="image">
+					<p>A Company that is focused on progressing towards success and help it's clients build their dream projects. The company has a rich project history and huge success in it's track records.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //Tooltip -->
+<!-- Tooltip Project 6 -->
+<div class="tooltip-content">
+	<div class="modal fade features-modal" id="proj6" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title text-center" style="font-family: 'Tangerine', cursive">Pritam Sengupta</h4>
+				</div>
+				<div class="modal-body">
+					<img src="images/3.jpg" class="img-responsive" alt="image">
+					<p>A Company that is focused on progressing towards success and help it's clients build their dream projects. The company has a rich project history and huge success in it's track records.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //Tooltip -->
 <!-- About -->
 <div class="agileits-about-main" id="about">
-<div class="container container-padding">
+<!-- <div class="container"> -->
 	<h3 class="w3-title text-center">about us</h3>
 	<div class="agileits-about">
 		<div class="col-md-12 col-sm-12 col-xs-12 w3l-about-content1"> <!--Box Width by w3l-about-content1-->
-
-				 <div class="col-md-6 col-sm-6 col-xs-6 agile-about-text">
-			<h4 class="w3-title">"A dream does not become reality through magic. It takes sacrifice, sweat, determination, team spirit and hard work.</h4>
-			<p>With Pritam Sengupta, the sole objective is on the combined effort we must put at developing smart and abstract projects. We aim at developing new ideas and implementing new technologies to create an impeccable masterpiece for you.</p>
-				 </div>
-			 <div class="col-md-6 col-sm-6 col-xs-6 logo-padding">
-				 <img src="images/New_Logo_2.png" alt="Pritam Sengupta Logo" class="img-responsive logo-padding">
+			 <div class="col-md-6 col-sm-12 col-xs-12 agile-about-text">
+			<h4 class="w3-title">"A dream does not become reality through magic. It takes sacrifice, sweat, determination, team spirit and hard work."<p>-Pritam Sengupta</p></h4>
+			<p><h4 class="custom1">With Pritam Sengupta & Co., the sole objective is on the combined effort we must put at developing smart and abstract projects. We aim at developing new ideas and implementing new technologies to create an impeccable masterpiece for you.</h4></p>
+			 </div>
+			 <div class="col-md-6 col-sm-12 col-xs-12">
+				 <img src="images/New_Logo_2.png" alt="Pritam Sengupta Logo" class="img-responsive logo-padding center">
 			</div>
 		</div>
 	<!--	<div class="col-md-6 col-sm-12 col-xs-12 w3l-about-content2">
@@ -168,7 +281,7 @@ Author E-Mail: vishalk.engg@gmail.com
 		</div> -->
 		<div class="clearfix"></div>
 	</div>
-</div>
+<!-- </div> -->
 </div>
 <!-- //About -->
 <!-- services -->
@@ -420,6 +533,61 @@ Author E-Mail: vishalk.engg@gmail.com
  </div>
 </div>
 <!-- //team -->
+<!-- Sister Cencerns -->
+<div class="sister" id="sister">
+	<div class="container">
+		<h3 class="w3-title text-center">Sister Concerns</h3>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister1.jpg" alt="SDBuilders">
+				<div class="overlay">
+					<h4><b>S.B. Builders</b></h4>
+					<p>Proprietor: <b>JITENDRANATH GHOSH</b></p>
+					<p><i class="fa fa-phone"></i> +91 9836848964</p>
+					<p><i class="fa fa-phone"></i> +91 8167886799</p>
+					<p><i class="fa fa-envelope-o"></i><a href="mailto:amisibhu440@gmail.com"> amisibhu440@gmail.com</a></p>
+					<p><b>Address:</b> 72/A, A. D. ROAD,<br>BUDGE BUDGE, KOLKATA-137.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister2.jpg" alt="">
+				<div class="overlay">
+					<h4><b>CREATIVE MIND</b></h4>
+					<p>Proprietor: <b>MILON SENGUPTA</b></p>
+					<p><i class="fa fa-phone"></i> +91 9331891629</p>
+					<p><i class="fa fa-phone"></i> +91 9836742120</p>
+					<p><b>Address:</b> NORTH JAGTALA, MANALI APARTMENT, BATAMORE, MAHESHTALA,<br>KOLKATA-700141</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister3.jpg" alt="">
+				<div class="overlay">
+					<h4><b>SONY ROAD LINES</b></h4>
+					<p>Proprietor: <b>SK RAJIB-USH-SHAN &amp; ANIRUDDHYA BOSE.</b></p>
+					<p><i class="fa fa-phone"></i> +91 9836364147</p>
+					<p><i class="fa fa-phone"></i> +91 9830362623</p>
+					<p><i class="fa fa-envelope-o"></i><a href="mailto:roadlinessony@gmail.com"> roadlinessony@gmail.com</a></p>
+					<p><b>Address:</b> PRABIR BHAVAN,<br>NANGI PARBANGLA, MAHESHTALA, KOLKATA-141</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister4.jpg" alt="">
+				<div class="overlay">
+					<h4><b>BHIM CONSTRUCTION</b></h4>
+					<p>Proprietor: <b>GHATATKACH  HALDER</b></p>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<!-- //Sister Concerns -->
 <!-- blog -->
 <div class="agileits-blog" id="projects">
 	<div class="container">
@@ -427,7 +595,7 @@ Author E-Mail: vishalk.engg@gmail.com
 			<div class="grid-1 col-md-4 col-sm-4 col-xs-4">
 				<div class="col-md-4 col-sm-4 col-xs-4 w3l_blog_grid">
 					<div class="w3ls_blog_grid agileits_blog_grid4">
-						<a data-toggle="modal" data-target="#myModal">
+						<a data-toggle="modal" data-target="#proj1">
 							<img class="img-responsive blog-agile img1" src="images/b.jpg" alt="Project 1">
 						</a>
 						<p class="agile_blog_grid1_sub agileits_w3layouts_ser_sub2">Completion Date 1</p>
@@ -437,7 +605,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-4 w3l_blog_grid">
 					<div class="ww3ls_blog_grid agileits_blog_grid3">
-						<a data-toggle="modal" data-target="#myModal">
+						<a data-toggle="modal" data-target="#proj2">
 							<img class="img-responsive blog-agile img1" src="images/c.jpg" alt="Project 2">
 						</a>
 						<p class="agile_blog_grid1_sub agileits_sub2">Completion Date 2</p>
@@ -448,7 +616,7 @@ Author E-Mail: vishalk.engg@gmail.com
 			<div class="grid-1 col-md-4 col-sm-4 col-xs-4">
 				<div class="col-md-6 col-sm-4 col-xs-12 w3l_blog_grid">
 						<div class="w3ls_blog_grid agileits_blog_grid3">
-							<a data-toggle="modal" data-target="#myModal">
+							<a data-toggle="modal" data-target="#proj3">
 								<img class="img-responsive blog-agile img2" src="images/12.jpg" alt="Project 3">
 							</a>
 							<p class="agile_blog_grid1_sub agileits_sub2">Completion Date 3</p>
@@ -457,7 +625,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 				<div class="col-md-6 col-sm-4 col-xs-4 w3l_blog_grid">
 					<div class="w3ls_blog_grid agileits_blog_grid3">
-						<a data-toggle="modal" data-target="#myModal">
+						<a data-toggle="modal" data-target="#proj4">
 							<img class="img-responsive blog-agile img2" src="images/9.jpg" alt="Project 4">
 						</a>
 						<p class="agile_blog_grid1_sub">Completion Date 4</p>
@@ -466,7 +634,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 				<div class="col-md-6 col-sm-4 col-xs-4 w3l_blog_grid">
 					<div class="w3ls_blog_grid agileits_blog_grid3 w3-grid3">
-						<a data-toggle="modal" data-target="#myModal">
+						<a data-toggle="modal" data-target="#proj5">
 							<img class="img-responsive blog-agile img2" src="images/11.jpg" alt="Project 5">
 						</a>
 						<p class="agile_blog_grid1_sub agileits_sub2">10.12.2016</p>
@@ -477,7 +645,7 @@ Author E-Mail: vishalk.engg@gmail.com
 			<div class="grid-1 col-md-4 col-sm-4 col-xs-4">
 				<div class="w3l_blog_grid">
 						<div class="w3ls_blog_grid  agileits_blog_grid5">
-							<a data-toggle="modal" data-target="#myModal">
+							<a data-toggle="modal" data-target="#proj6">
 								<img class="img-responsive blog-agile img3" src="images/a.jpg" alt="Project 6">
 							</a>
 							<p class="agile_blog_grid1_sub agileits_w3layouts_ser_sub3">10.12.2016</p>
@@ -576,7 +744,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 				<div class="col-md-11 col-sm-11 col-xs-11 w3_agile-contact-text">
 					<h5>phone</h5>
-					<p>+91-900 792 3202</p>
 					<p>+91-900 769 0492</p>
 				</div>
 				<div class="clearfix"></div>
@@ -593,14 +760,32 @@ Author E-Mail: vishalk.engg@gmail.com
 			</div>
 			<div class="clearfix"></div>
 		</div>
+<?php include('form_report.php'); ?>
 		<div class="col-md-7 col-sm-7 col-xs-6 contact-right-w3l">
-			<form action="report.php" method="post" name="emailform">
-				<input type="text" class="name" id="firstname" name="firstname" placeholder="First Name" required="">
-				<input type="text" class="name" id="lastname" name="lastname" placeholder="Last Name" required="">
-				<input type="email" class="name" id="email" name="email" placeholder="Email" required="">
-				<input type="text" class="name" id="subject" name="subject" placeholder="Subject" required="">
-				<textarea placeholder="Your Message" id="body" name="body" required=""></textarea>
+			<form action="<?= $_SERVER['PHP_SELF']; ?>#contact" method="post" name="emailform">
+				<input type="text" class="name" id="firstname" name="firstname" placeholder="First Name" value="<?= $fname ?>">
+				<span class="error"><?= $fname_error ?></span>
+			<fieldset>
+				<input type="text" class="name" id="lastname" name="lastname" placeholder="Last Name" value="<?= $lname ?>">
+				<span class="error"><?= $lname_error ?></span>
+				</fieldset>
+				<fieldset>
+				<input type="email" class="name" id="email" name="email" placeholder="Email" value="<?= $email ?>">
+				<span class="error"><?= $email_error ?></span>
+				</fieldset>
+				<fieldset>
+				<input type="text" class="name" id="phone" name="phone" placeholder="Phone No." value="<?= $phone ?>">
+				<span class="error"><?= $phone_error ?></span>
+				</fieldset>
+				<fieldset>
+				<input type="text" class="name" id="subject" name="subject" placeholder="Subject" value="<?= $subject ?>">
+				<span class="error"><?= $sub_error ?></span>
+				</fieldset>
+				<fieldset>
+				<textarea placeholder="Your Message" id="body" name="body" value="<?= $message ?>"></textarea>
+				</fieldset>
 				<input type="submit" value="SEND MESSAGE">
+				<div class="success"><?= $success; ?> </div>
 			</form>
 		</div>
 		<div class="clearfix"></div>
@@ -631,7 +816,7 @@ Author E-Mail: vishalk.engg@gmail.com
 			$(".scroll").click(function(event){
 				event.preventDefault();
 
-		$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+	//	$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 			});
 		});
 </script>

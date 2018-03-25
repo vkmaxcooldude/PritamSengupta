@@ -52,7 +52,7 @@ label {
 p {
 	margin: 0;
 	font-family: 'Titillium Web', sans-serif;
-	line-height: 2;
+	line-height: 1.5;
 	font-size: 1em;
 	color:#fff;
 }
@@ -528,9 +528,7 @@ button.btn:hover {
 .agileits-services-main,.agileits-newletter,.agileits-team,.agileits-blog,.agileits-testimonials,.agileits-contact{
 	background:#ff9900;
 }
-.agileits-about-main{
-	position:relative;
-}
+
 .agileits-about-main h3.w3-title{
 	color:#ff9900;
 }
@@ -541,21 +539,49 @@ h3.w3-title {
 	margin-bottom: 1em;
 }
 .w3l-about-content1 {
-    background: #00c4ff;
-    width: 100%;
+		position: relative;
+    background: #010101;
+    width: 100%;   //check, check back here and replace with 90%
 }
 .w3l-about-content2{
 	position:absolute;
 	right:47px;
     top: 30%;
 }
+
 .agile-about-text {
-    width: 50%;
-    padding: 7em 7em 7em 7em;
+	width: 50%;
+  padding: 9vw 5vw 9vw 5vw;
+}
+
+.custom1{
+	color: white;
+	font: normal;
 }
 
 .logo-padding{
+	width: 50vw;
+	height: auto;
+	margin-left: auto;
+  margin-right: auto;
 	padding: 3em 3em 3em 3em;
+}
+
+.sister{
+	padding: 5em;
+	background: #010101;
+}
+
+.error{
+	color: red;
+	font-weight: bold;
+}
+
+.success{
+	color: #ff9966;
+	text-align: center;
+	font-weight: bold;
+	sont-size: 14px;
 }
 
 h4.w3-title {
@@ -1221,7 +1247,7 @@ img.img3{
 		padding: 3em 5em 3em 5em;
 	}
 	.w3l-about-content1 {
-		width: 71%;
+		width: 50%;
 	}
 	.w3l-about-content2 {
 		right: 145px;
@@ -1317,7 +1343,6 @@ img.img3{
 	}
 	.agile-about-text {
 		padding: 3em;
-		text-align: center;
 	}
 	video.agile-media {
 		width: 100%;
@@ -1936,36 +1961,6 @@ img.img3{
 		min-height: 600px;
 	}
 
-}
-
-@font-face {
-  font-family: "icomoon";
-  src:  url("fonts/icomoon.eot?1714dz");
-  src:  url("fonts/icomoon.eot?1714dz#iefix") format("embedded-opentype"),
-    url("fonts/icomoon.ttf?1714dz") format("truetype"),
-    url("fonts/icomoon.woff?1714dz") format("woff"),
-    url("fonts/icomoon.svg?1714dz#icomoon") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-[class^="icon-"], [class*=" icon-"] {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.icon-pslogo:before {
-  content: "\e900";
 }
 
 
