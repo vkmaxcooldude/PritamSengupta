@@ -1,2 +1,11 @@
 Autoscroll to contact
 document.getElementById('id').scrollIntoView();
+
+https://www.kmdaonline.org/
+https://www.pwdwb.in/
+http://www.akmweb.in/
+http://www.bankuramunicipality.org/
+http://burdwanmunicipality.gov.in/
+http://www.diamondharbourmunicipality.org/
+http://www.englishbazarmunicipality.com/
+http://joynagarmozilpurmunicipality.com/

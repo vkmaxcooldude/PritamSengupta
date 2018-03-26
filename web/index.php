@@ -291,10 +291,64 @@ Author E-Mail: vishalk.engg@gmail.com
 	<div class="agileits-services">
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
 			<div class="hover ehover11">
+				<img class="img-responsive" src="images/road.jpg" alt="">
+				<div class="overlay">
+					<h4>Road Construction</h4>
+					<p>Construction of metalled roads.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/water.jpg" alt="">
+				<div class="overlay">
+					<h4>Water Supply</h4>
+					<p>Setting up water pipelines.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/garden.jpg" alt="">
+				<div class="overlay">
+					<h4>Gardening</h4>
+					<p>Setting a fresh garden by filling the land with appropriate clay and planting required plants.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/plant.jpg" alt="">
+				<div class="overlay">
+					<h4>Plantation</h4>
+					<p>Planting new plants over samll or large area.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 w3ls-service">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/maintain.jpg" alt="">
+				<div class="overlay">
+					<h4>Maintenance & Fabrication</h4>
+					<p>Performing maintenance of buildings with pacth work along with fabrication of interiors as per requirement.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/design.jpg" alt="">
+				<div class="overlay">
+					<h4>Drawing & Designing</h4>
+					<p>Architectural planning, drawing and designing of a Civil Construction.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
+			<div class="hover ehover11">
 				<img class="img-responsive" src="images/s1.jpg" alt="">
 				<div class="overlay">
-					<h4>home inception</h4>
-					<p>Sed convallis blandit enim tempor sed .Pelesque maximus massa sed odio ut dui.</p>
+					<h4>Project Report</h4>
+					<p>Preparing a detailed report for a project.</p>
 				</div>
 			</div>
 		</div>
@@ -302,45 +356,17 @@ Author E-Mail: vishalk.engg@gmail.com
 			<div class="hover ehover11">
 				<img class="img-responsive" src="images/s2.jpg" alt="">
 				<div class="overlay">
-					<h4>property valuations</h4>
-					<p>Sed convallis blandit enim tempor sed .Pelesque maximus massa sed odio ut dui.</p>
-
+					<h4>Cost Estimation</h4>
+					<p>Preparing a cost estimation report for the project. Report would contain all necessary materials required along with price estimation.</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
 			<div class="hover ehover11">
-				<img class="img-responsive" src="images/s3.jpg" alt="">
+				<img class="img-responsive" src="images/soil.jpg" alt="">
 				<div class="overlay">
-					<h4>short sales</h4>
-					<p>Sed convallis blandit enim tempor sed .Pelesque maximus massa sed odio ut dui.</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
-			<div class="hover ehover11">
-				<img class="img-responsive" src="images/14.jpg" alt="">
-				<div class="overlay">
-					<h4>vacant land</h4>
-					<p>Sed convallis blandit enim tempor sed .Pelesque maximus massa sed odio ut dui.</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 w3ls-service">
-			<div class="hover ehover11">
-				<img class="img-responsive" src="images/s4.jpg" alt="">
-				<div class="overlay">
-					<h4>rental management</h4>
-					<p>Sed convallis blandit enim tempor sed .Pelesque maximus massa sed odio ut dui.</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 w3ls-service">
-			<div class="hover ehover11">
-				<img class="img-responsive" src="images/10.jpg" alt="">
-				<div class="overlay">
-					<h4>Home loan facilitation</h4>
-					<p>Sed convallis blandit enim tempor sed .Pelesque maximus massa sed odio ut dui.</p>
+					<h4>Soil Testing</h4>
+					<p>We aid in performing proper soil testing before beginning a project.</p>
 				</div>
 			</div>
 		</div>
@@ -355,9 +381,29 @@ Author E-Mail: vishalk.engg@gmail.com
 	<h3 class="w3-title text-center">Clients</h3>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/17.jpg" alt="">
+			<img class="img-responsive" src="images/kmda.jpg" alt="">
 				<div class="overlay">
-					<h5>Haywood</h5>
+						<p>
+						<a href="#">
+							<i class="fa fa-twitter"></i>
+						</a>
+						<a href="#">
+							<i class="fa fa-facebook"></i>
+						</a>
+						<a href="#">
+							<i class="fa fa-instagram"></i>
+						</a>
+						<a href="#">
+							<i class="fa fa-dribbble"></i>
+						</a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/pwd.jpg" alt="">
+				<div class="overlay">
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -377,9 +423,8 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/18.jpg" alt="">
+			<img class="img-responsive" src="images/akm.jpg" alt="">
 				<div class="overlay">
-					<h5>Bryan</h5>
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -399,9 +444,8 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/19.jpg" alt="">
+			<img class="img-responsive" src="images/bankura.jpg" alt="">
 				<div class="overlay">
-					<h5>Adrian</h5>
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -421,9 +465,9 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/20.jpg" alt="">
+			<img class="img-responsive" src="images/burdwan.jpg" alt="">
 				<div class="overlay">
-					<h5>Paul</h5>
+					<!--<h5>Sheeran</h5>-->
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -443,9 +487,9 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/21.jpg" alt="">
+			<img class="img-responsive" src="images/govt.jpg" alt="">
 				<div class="overlay">
-					<h5>Sheeran</h5>
+					<h4>Diamond Harbour Municipality</h4>
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -465,9 +509,8 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/22.jpg" alt="">
+			<img class="img-responsive" src="images/ebm.jpg" alt="">
 				<div class="overlay">
-					<h5>Lorraine</h5>
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -487,31 +530,8 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/23.jpg" alt="">
+			<img class="img-responsive" src="images/jmm.jpg" alt="">
 				<div class="overlay">
-					<h5>Rebecca</h5>
-					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
-					</p>
-				</div>
-		</div>
-	</div>
-	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
-		<div class="hovereffect">
-			<img class="img-responsive" src="images/24.jpg" alt="">
-				<div class="overlay">
-					<h5>Kathleen</h5>
 					<p>
 						<a href="#">
 							<i class="fa fa-twitter"></i>
@@ -534,7 +554,7 @@ Author E-Mail: vishalk.engg@gmail.com
 </div>
 <!-- //team -->
 <!-- Sister Cencerns -->
-<div class="sister" id="sister">
+<div class="sister jarallax agileits-services-main" id="sister">
 	<div class="container">
 		<h3 class="w3-title text-center">Sister Concerns</h3>
 		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
@@ -555,7 +575,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<img class="img-responsive" src="images/sister2.jpg" alt="">
 				<div class="overlay">
 					<h4><b>CREATIVE MIND</b></h4>
-					<p>Proprietor: <b>MILON SENGUPTA</b></p>
+					<p>Proprietor: <b>MILAN SENGUPTA</b></p>
 					<p><i class="fa fa-phone"></i> +91 9331891629</p>
 					<p><i class="fa fa-phone"></i> +91 9836742120</p>
 					<p><b>Address:</b> NORTH JAGTALA, MANALI APARTMENT, BATAMORE, MAHESHTALA,<br>KOLKATA-700141</p>
