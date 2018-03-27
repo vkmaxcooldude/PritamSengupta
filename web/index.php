@@ -381,170 +381,135 @@ Author E-Mail: vishalk.engg@gmail.com
 	<h3 class="w3-title text-center">Clients</h3>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/kmda.jpg" alt="">
-				<div class="overlay">
-						<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
-					</p>
-				</div>
-		</div>
-	</div>
-	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
-		<div class="hovereffect">
-			<img class="img-responsive" src="images/pwd.jpg" alt="">
+			<img class="img-responsive" src="images/kmda.jpg" alt="KMDA">
 				<div class="overlay">
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="https://www.kmdaonline.org/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/akm.jpg" alt="">
+			<img class="img-responsive" src="images/pwd.jpg" alt="PWD Kolkata">
 				<div class="overlay">
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="https://www.pwdwb.in/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/bankura.jpg" alt="">
+			<img class="img-responsive" src="images/akm.jpg" alt="ASHOKENAGAR-KALYANGAR MUNICIPALITY">
 				<div class="overlay">
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="http://www.akmweb.in/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/burdwan.jpg" alt="">
+			<img class="img-responsive" src="images/bankura.jpg" alt="BANKURA MUNICIPALITY">
 				<div class="overlay">
-					<!--<h5>Sheeran</h5>-->
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="http://www.bankuramunicipality.org/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/govt.jpg" alt="">
+			<img class="img-responsive" src="images/burdwan.jpg" alt="BURDWAN MUNICIPALITY">
+				<div class="overlay">
+					<!--<h5>Pritam</h5>-->
+					<p>
+						<a href="http://burdwanmunicipality.gov.in/" target="_blank">
+							<i class="fa fa-globe"></i>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="DIAMOND HARBOUR MUNICIPALITY">
 				<div class="overlay">
 					<h4>Diamond Harbour Municipality</h4>
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="http://www.diamondharbourmunicipality.org/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/ebm.jpg" alt="">
+			<img class="img-responsive" src="images/ebm.jpg" alt="ENGLISH BAZAR MUNICIPALITY">
 				<div class="overlay">
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="http://www.englishbazarmunicipality.com/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
 	</div>
 	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 		<div class="hovereffect">
-			<img class="img-responsive" src="images/jmm.jpg" alt="">
+			<img class="img-responsive" src="images/jmm.jpg" alt="JOYNAGAR-MAJILPUR MUNICIPALITY">
 				<div class="overlay">
 					<p>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-instagram"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-dribbble"></i>
-						</a>
+						<a href="http://joynagarmozilpurmunicipality.com/" target="_blank">
+							<i class="fa fa-globe"></i>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/jalpaiguri.jpg" alt="JALPAIGURI MUNICIPALITY">
+				<div class="overlay">
+					<p>
+						<a href="http://jalpaigurimunicipality.org/" target="_blank">
+							<i class="fa fa-globe"></i>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/dhupguri.png" alt="DHUPGURI MUNICIPALITY">
+				<div class="overlay">
+					<p>
+						<a href="http://www.dhupgurimunicipality.org.in/" target="_blank">
+							<i class="fa fa-globe"></i>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="Serampore Municipality">
+				<div class="overlay">
+				<h4>Serampore Municipality</h4>
+					<p>
+						<a href="http://seramporemunicipality.net/" target="_blank">
+							<i class="fa fa-globe"></i>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/rsm.jpg" alt="RAJPUR-SONARPUR MUNICIPALITY">
+				<div class="overlay">
+					<p>
+						<a href="http://www.rajpursonarpurmunicipality.in/" target="_blank">
+							<i class="fa fa-globe"></i>
 					</p>
 				</div>
 		</div>
