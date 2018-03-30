@@ -84,6 +84,7 @@ Author E-Mail: vishalk.engg@gmail.com
 						</div>
 					</div>
 				</li>
+				<!--
 				<li>
 					<div class="jarallax agileits-banner-info agileits-banner-info1">
 						<div class="caption"><h3>We believe in quality!</h3>
@@ -91,6 +92,7 @@ Author E-Mail: vishalk.engg@gmail.com
 						</div>
 					</div>
 				</li>
+			-->
 			</ul>
 	  </div>
 	</div>
@@ -375,7 +377,7 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 </div>
 <!-- service -->
-<!-- team -->
+<!-- Clients -->
 <div class="agileits-team" id="clients">
 	<div class="container">
 	<h3 class="w3-title text-center">Clients</h3>
@@ -517,7 +519,7 @@ Author E-Mail: vishalk.engg@gmail.com
 	<div class="clearfix"></div>
  </div>
 </div>
-<!-- //team -->
+<!-- //Clients -->
 <!-- Sister Cencerns -->
 <div class="sister jarallax agileits-services-main" id="sister">
 	<div class="container">
@@ -565,7 +567,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<img class="img-responsive" src="images/sister4.jpg" alt="">
 				<div class="overlay">
 					<h4><b>BHIM CONSTRUCTION</b></h4>
-					<p>Proprietor: <b>GHATATKACH  HALDER</b></p>
+					<p>Proprietor: <b>GHATATKACH HALDER</b></p>
 				</div>
 			</div>
 		</div>
@@ -573,7 +575,7 @@ Author E-Mail: vishalk.engg@gmail.com
 	</div>
 </div>
 <!-- //Sister Concerns -->
-<!-- blog -->
+<!-- Projects -->
 <div class="agileits-blog" id="projects">
 	<div class="container">
 	<h3 class="w3-title text-center">Projects</h3>
@@ -650,12 +652,14 @@ Author E-Mail: vishalk.engg@gmail.com
 			<div class="carousel slide" data-ride="carousel" id="quote-carousel">
 				<!-- Bottom Carousel Indicators -->
 				<ol class="carousel-indicators">
-					<li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="images/17.jpg" alt="">
+					<li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="images/emp1.jpg" alt="">
 					</li>
+					<!--
 					<li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="images/24.jpg" alt="">
 					</li>
 					<li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="images/18.jpg" alt="">
 					</li>
+				-->
 				</ol>
 
 				<!-- Carousel Slides / Quotes -->
@@ -667,13 +671,13 @@ Author E-Mail: vishalk.engg@gmail.com
 							<div class="row">
 								<div class="col-sm-8 col-sm-offset-2">
 
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
-									<h5>Jordan</h5>
+									<p>My role as H.R. is dedicated towards the company's need and potential. The company has achieved remarkable growth & will continue to grow and extend its reach globally!</p>
+									<h5>Neeta Grover (H.R.)</h5>
 								</div>
 							</div>
 						</blockquote>
 					</div>
-					<!-- Quote 2 -->
+					<!-- Quote 2
 					<div class="item">
 						<blockquote>
 							<div class="row">
@@ -685,7 +689,8 @@ Author E-Mail: vishalk.engg@gmail.com
 							</div>
 						</blockquote>
 					</div>
-					<!-- Quote 3 -->
+					-->
+					<!-- Quote 3
 					<div class="item">
 						<blockquote>
 							<div class="row">
@@ -697,6 +702,7 @@ Author E-Mail: vishalk.engg@gmail.com
 							</div>
 						</blockquote>
 					</div>
+					-->
 				</div>
 
 				<!-- Carousel Buttons Next/Prev -->
@@ -719,7 +725,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 				<div class="col-md-11 col-sm-11 col-xs-11 w3_agile-contact-text">
 					<h5>address</h5>
-					<p>Golok Dham (A-1), Bata More, North Jagtala, Maheshtala, Kolkata -700141, West Bengal, India.</p>
+					<p>Golok Dham Apartment (A-1), Bata More, North Jagtala, Maheshtala, Kolkata -700141, West Bengal, India.</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
