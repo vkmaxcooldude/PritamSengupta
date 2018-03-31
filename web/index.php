@@ -387,7 +387,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="https://www.kmdaonline.org/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -398,7 +398,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="https://www.pwdwb.in/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -409,7 +409,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://www.akmweb.in/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -420,7 +420,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://www.bankuramunicipality.org/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -432,7 +432,7 @@ Author E-Mail: vishalk.engg@gmail.com
 					<!--<h5>Pritam</h5>-->
 					<p>
 						<a href="http://burdwanmunicipality.gov.in/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -444,7 +444,7 @@ Author E-Mail: vishalk.engg@gmail.com
 					<h4>Diamond Harbour Municipality</h4>
 					<p>
 						<a href="http://www.diamondharbourmunicipality.org/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -455,7 +455,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://www.englishbazarmunicipality.com/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -466,7 +466,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://joynagarmozilpurmunicipality.com/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -477,7 +477,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://jalpaigurimunicipality.org/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -488,7 +488,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://www.dhupgurimunicipality.org.in/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -500,7 +500,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<h4>Serampore Municipality</h4>
 					<p>
 						<a href="http://seramporemunicipality.net/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -511,7 +511,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<p>
 						<a href="http://www.rajpursonarpurmunicipality.in/" target="_blank">
-							<i class="fa fa-globe"></i>
+							<i class="fa fa-globe"></i></a>
 					</p>
 				</div>
 		</div>
@@ -526,7 +526,7 @@ Author E-Mail: vishalk.engg@gmail.com
 		<h3 class="w3-title text-center">Sister Concerns</h3>
 		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 			<div class="hover ehover11">
-				<img class="img-responsive" src="images/sister1.jpg" alt="SDBuilders">
+				<img class="img-responsive" src="images/sister.png" alt="SDBuilders">
 				<div class="overlay">
 					<h4><b>S.B. Builders</b></h4>
 					<p>Proprietor: <b>JITENDRANATH GHOSH</b></p>
@@ -539,7 +539,7 @@ Author E-Mail: vishalk.engg@gmail.com
 		</div>
 		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 			<div class="hover ehover11">
-				<img class="img-responsive" src="images/sister2.jpg" alt="">
+				<img class="img-responsive" src="images/brother.png" alt="Creative Mind">
 				<div class="overlay">
 					<h4><b>CREATIVE MIND</b></h4>
 					<p>Proprietor: <b>MILAN SENGUPTA</b></p>
@@ -551,7 +551,7 @@ Author E-Mail: vishalk.engg@gmail.com
 		</div>
 		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 			<div class="hover ehover11">
-				<img class="img-responsive" src="images/sister3.jpg" alt="">
+				<img class="img-responsive" src="images/sister.png" alt="SONY ROAD LINES">
 				<div class="overlay">
 					<h4><b>SONY ROAD LINES</b></h4>
 					<p>Proprietor: <b>SK RAJIB-USH-SHAN &amp; ANIRUDDHYA BOSE.</b></p>
@@ -564,10 +564,71 @@ Author E-Mail: vishalk.engg@gmail.com
 		</div>
 		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
 			<div class="hover ehover11">
-				<img class="img-responsive" src="images/sister4.jpg" alt="">
+				<img class="img-responsive" src="images/brother.png" alt="BHIM CONSTRUCTION">
 				<div class="overlay">
 					<h4><b>BHIM CONSTRUCTION</b></h4>
 					<p>Proprietor: <b>GHATATKACH HALDER</b></p>
+					<p><i class="fa fa-phone"></i> +91 9733492062</p>
+					<p><a href="mailto:ghatatkachhalder@gmail.com">ghatatkachhalder@gmail.com</a></p>
+					<p><b>Address:</b> NIMPITH, NIMPITH ASHRAM, JAYNAGAR, SOUTH 24 PARGANAS, PIN-743338.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister.png" alt="A.B.J.R ENTERPRISE">
+				<div class="overlay">
+					<h4><b>A.B.J.R ENTERPRISE</b></h4>
+					<p>Proprietor: <b>SHOVAN SENGUPTA</b></p>
+					<p><i class="fa fa-phone"></i> +91 9674803393</p>
+					<p><i class="fa fa-envelope-o"></i><a href="mailto:senguptasovon@gmail.com"> senguptasovon@gmail.com</a></p>
+					<p><b>Address:</b> BATAMORE, SOUTH 24 PGNS (NEAR HAPPY HOME ENGLISH SCHOOL), KOLKATA-141.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/brother.png" alt="S.I. ENTERPRISE">
+				<div class="overlay">
+					<h4><b>M/s S. I. ENTERPRISE</b></h4>
+					<p>Proprietor: <b>SAGAR CHATTERJEE</b></p>
+					<p><i class="fa fa-phone"></i> +91 9830379583</p>
+					<p><i class="fa fa-envelope-o"></i><a href="mailto:sagargullu1978@gmail.com"> sagargullu1978@gmail.com</a></p>
+					<p><b>Address:</b> M. G. ROAD, KOLKATA- 700082.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister.png" alt="BONY ENTERPRISE">
+				<div class="overlay">
+					<h4><b>BONY ENTERPRISE</b></h4>
+					<p>Proprietor: <b>MILON SEIKH</b></p>
+					<p><i class="fa fa-phone"></i> +91 9735732462</p>
+					<p><b>Address:</b> S/O BIJUL SEIKH, KEYATALA, BARUIPUR KEYATALA, SOUTH 24 PG, WEST BENGAL- 743372.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/brother.png" alt="Ajay Dey">
+				<div class="overlay">
+					<h4><b>M/s Ajay Dey</b></h4>
+					<p>Proprietor: <b>Ajay Dey</b></p>
+					<p><i class="fa fa-phone"></i> +91 8910699143</p>
+					<p><i class="fa fa-envelope-o"></i><a href="mailto:deyajoy59@gmail.com"> deyajoy59@gmail.com</a></p>
+					<p><b>Address:</b> BATANAGAR, UTTARJAGTALA, MAHESTALA, KOLKATA-700141.</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+			<div class="hover ehover11">
+				<img class="img-responsive" src="images/sister.png" alt="M.R. Enterprise">
+				<div class="overlay">
+					<h4><b>M.R. Enterprise</b></h4>
+					<p>Proprietor: <b>Chanchal Roy</b></p>
+					<p><i class="fa fa-phone"></i> +91 9830314281</p>
+					<p><b>Address:</b> MALLIEK BAZAR, BATA NAGAR, MAHESHTALA, KOLKATA-140.</p>
 				</div>
 			</div>
 		</div>
@@ -654,12 +715,14 @@ Author E-Mail: vishalk.engg@gmail.com
 				<ol class="carousel-indicators">
 					<li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="images/emp1.jpg" alt="">
 					</li>
-					<!--
-					<li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="images/24.jpg" alt="">
+					<li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="images/emp2.jpg" alt="">
 					</li>
-					<li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="images/18.jpg" alt="">
+					<li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="images/emp3.jpg" alt="">
 					</li>
-				-->
+					<li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="images/emp4.jpg" alt="">
+					</li>
+					<li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="images/emp5.jpg" alt="">
+					</li>
 				</ol>
 
 				<!-- Carousel Slides / Quotes -->
@@ -677,32 +740,53 @@ Author E-Mail: vishalk.engg@gmail.com
 							</div>
 						</blockquote>
 					</div>
-					<!-- Quote 2
+					<!-- Quote 2 -->
 					<div class="item">
 						<blockquote>
 							<div class="row">
 								<div class="col-sm-8 col-sm-offset-2">
 
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-									<h5>Kennedy</h5>
+									<p>As a Site Engineer, I try to fulfill all my responsibilities given by authority. My hard work and potential are directed for the welfare of the company. I want to see our company to achieve great success. </p>
+									<h5>Bimanesh Bhattachargee (S.E.)</h5>
 								</div>
 							</div>
 						</blockquote>
 					</div>
-					-->
-					<!-- Quote 3
+					<!-- Quote 3 -->
 					<div class="item">
 						<blockquote>
 							<div class="row">
 								<div class="col-sm-8 col-sm-offset-2">
 
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									<h5>James</h5>
+									<p>I accept all challenges for my role as an Office Incharge for the company. My role is versatile and efforts are challenging. I wish to see the company to flourish worldwide. All of us together mke the pillars of the company.</p>
+									<h5>[Name] (O.I.C.)</h5>
 								</div>
 							</div>
 						</blockquote>
 					</div>
-					-->
+					<!-- Quote 4 -->
+					<div class="item">
+						<blockquote>
+							<div class="row">
+								<div class="col-sm-8 col-sm-offset-2">
+
+									<p>As a Project In-Charge of a company I try my best meet all the challenges. My hard work and responsibility is dedicated towards the company. We together saw a dream and our company will reach its endless horizon.</p>
+									<h5>Anupam Sengupta (P.I.C.)</h5>
+								</div>
+							</div>
+						</blockquote>
+					</div>
+					<div class="item">
+						<blockquote>
+							<div class="row">
+								<div class="col-sm-8 col-sm-offset-2">
+
+									<p>I work as Project Head in the company. My work is worship to me. I have immense respect for the company and my colleagues. My mindset is work work and work. I want to see our company at the top of its class and all of us will definitely work together to turn our dream into a reality.</p>
+									<h5>Samuan Islam (P.H.)</h5>
+								</div>
+							</div>
+						</blockquote>
+					</div>
 				</div>
 
 				<!-- Carousel Buttons Next/Prev -->
