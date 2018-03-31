@@ -516,6 +516,91 @@ Author E-Mail: vishalk.engg@gmail.com
 				</div>
 		</div>
 	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/med.jpg" alt="Municipal-Engineering-Directorate">
+				<div class="overlay">
+					<h4>Municipal Engineering Directorate</h4>
+					<p>
+						<a href="https://www.wbdma.gov.in/HTM/MUNI_MED_DEPT.htm" target="_blank">
+							<i class="fa fa-globe"></i></a>
+						<a href="https://www.facebook.com/Municipal-Engineering-Directorate-MED-196965760367513/" target="_blank">
+							<i class="fa fa-facebook"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/wbfdcl.png" alt="West Bengal Forest Development Corporation Limited">
+				<div class="overlay">
+					<p>
+						<a href="https://www.wbfdc.com/" target="_blank">
+							<i class="fa fa-globe"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="South 24 Parganas Zilla Parishad">
+				<div class="overlay">
+					<h4>South 24 Parganas Zilla Parishad</h4>
+					<p>
+						<a href="http://www.zps24pgs.gov.in/" target="_blank">
+							<i class="fa fa-globe"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="Malda Zilla Parishad">
+			<h4>Malda Zilla Parishad</h4>
+				<div class="overlay">
+					<p>
+						<a href="http://malda.gov.in/" target="_blank">
+							<i class="fa fa-globe"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="Howrah Zilla Parishad">
+			<h4>Howrah Zilla Parishad</h4>
+				<div class="overlay">
+					<p>
+						<a href="http://howrahzilaparishad.in/" target="_blank">
+							<i class="fa fa-globe"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="Uttar Dinajpur Zilla Parishad">
+			<h4>Uttar Dinajpur Zilla Parishad</h4>
+				<div class="overlay">
+					<p>
+						<a href="http://www.udzp.in/" target="_blank">
+							<i class="fa fa-globe"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
+	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 wthree-team">
+		<div class="hovereffect">
+			<img class="img-responsive" src="images/govt.jpg" alt="Hooghly Zilla Parishad">
+			<h4>Hooghly Zilla Parishad</h4>
+				<div class="overlay">
+					<p>
+						<a href="http://www.hooghly.gov.in/" target="_blank">
+							<i class="fa fa-globe"></i></a>
+					</p>
+				</div>
+		</div>
+	</div>
 	<div class="clearfix"></div>
  </div>
 </div>
@@ -638,69 +723,275 @@ Author E-Mail: vishalk.engg@gmail.com
 <!-- //Sister Concerns -->
 <!-- Projects -->
 <div class="agileits-blog" id="projects">
-	<div class="container">
+	<div class="container table-padding">
 	<h3 class="w3-title text-center">Projects</h3>
-			<div class="grid-1 col-md-4 col-sm-4 col-xs-4">
-				<div class="col-md-4 col-sm-4 col-xs-4 w3l_blog_grid">
-					<div class="w3ls_blog_grid agileits_blog_grid4">
-						<a data-toggle="modal" data-target="#proj1">
-							<img class="img-responsive blog-agile img1" src="images/b.jpg" alt="Project 1">
-						</a>
-						<p class="agile_blog_grid1_sub agileits_w3layouts_ser_sub2">Completion Date 1</p>
-						<p class="agileinfo_blog_grid_pos agile_blog_grid_pos2">Project Name 1</p>
-					</div>
-
-				</div>
-				<div class="col-md-4 col-sm-4 col-xs-4 w3l_blog_grid">
-					<div class="ww3ls_blog_grid agileits_blog_grid3">
-						<a data-toggle="modal" data-target="#proj2">
-							<img class="img-responsive blog-agile img1" src="images/c.jpg" alt="Project 2">
-						</a>
-						<p class="agile_blog_grid1_sub agileits_sub2">Completion Date 2</p>
-						<p class="agileinfo_blog_grid_pos agile_blog_grid_pos2">Project Name 2</p>
-					</div>
-				</div>
-			</div>
-			<div class="grid-1 col-md-4 col-sm-4 col-xs-4">
-				<div class="col-md-6 col-sm-4 col-xs-12 w3l_blog_grid">
-						<div class="w3ls_blog_grid agileits_blog_grid3">
-							<a data-toggle="modal" data-target="#proj3">
-								<img class="img-responsive blog-agile img2" src="images/12.jpg" alt="Project 3">
-							</a>
-							<p class="agile_blog_grid1_sub agileits_sub2">Completion Date 3</p>
-							<p class="agileinfo_blog_grid_pos agile_blog_grid_pos1">Project Name 3</p>
-						</div>
-				</div>
-				<div class="col-md-6 col-sm-4 col-xs-4 w3l_blog_grid">
-					<div class="w3ls_blog_grid agileits_blog_grid3">
-						<a data-toggle="modal" data-target="#proj4">
-							<img class="img-responsive blog-agile img2" src="images/9.jpg" alt="Project 4">
-						</a>
-						<p class="agile_blog_grid1_sub">Completion Date 4</p>
-						<p class="agileinfo_blog_grid_pos agile_blog_grid_pos1">Project Name 4</p>
-					</div>
-				</div>
-				<div class="col-md-6 col-sm-4 col-xs-4 w3l_blog_grid">
-					<div class="w3ls_blog_grid agileits_blog_grid3 w3-grid3">
-						<a data-toggle="modal" data-target="#proj5">
-							<img class="img-responsive blog-agile img2" src="images/11.jpg" alt="Project 5">
-						</a>
-						<p class="agile_blog_grid1_sub agileits_sub2">10.12.2016</p>
-						<p class="agileinfo_blog_grid_pos agile_blog_grid_pos1">Project 5</p>
-					</div>
-				</div>
-			</div>
-			<div class="grid-1 col-md-4 col-sm-4 col-xs-4">
-				<div class="w3l_blog_grid">
-						<div class="w3ls_blog_grid  agileits_blog_grid5">
-							<a data-toggle="modal" data-target="#proj6">
-								<img class="img-responsive blog-agile img3" src="images/a.jpg" alt="Project 6">
-							</a>
-							<p class="agile_blog_grid1_sub agileits_w3layouts_ser_sub3">10.12.2016</p>
-							<p class="agileinfo_blog_grid_pos agile_blog_grid_pos3">Project 6</p>
-						</div>
-				</div>
-			</div>
+	<table class="table table-hover table-css">
+		 <thead>
+			 <tr>
+				 <th>Name of Project</th>
+				 <th>Location</th>
+				 <th >Status</th>
+				 <th >Start Date</th>
+				 <th >End Date</th>
+				 <th >Employees Working</th>
+				 <th >Description</th>
+			 </tr>
+		 </thead>
+		 <tbody>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Jalpaiguri</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Apr 2018</td>
+				 <td >-</td>
+				 <td >7</td>
+				 <td >Amrut Project</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Burdwan</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Apr 2018</td>
+				 <td >-</td>
+				 <td >11</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Ashoknagar</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Mar 2018</td>
+				 <td >-</td>
+				 <td >9</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>Bawali to Akulshek</td>
+				 <td >Budge-Budge II</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2018</td>
+				 <td >Mar 2018</td>
+				 <td >2</td>
+				 <td >Road Maintenance</td>
+			 </tr>
+			 <tr>
+				 <td>Gotalahat to Kriparampur</td>
+				 <td >Bishnupur I</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2018</td>
+				 <td >Mar 2018</td>
+				 <td >2</td>
+				 <td >Road Maintenance</td>
+			 </tr>
+			 <tr>
+				 <td>Burul College to Roypur Bazar</td>
+				 <td >Santragachi</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2018</td>
+				 <td >Mar 2018</td>
+				 <td >4</td>
+				 <td >Road Maintenance</td>
+			 </tr>
+			 <tr>
+				 <td>Gotalahat to Bakrahat</td>
+				 <td >Bishnupur II</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2018</td>
+				 <td >Feb 2018</td>
+				 <td >2</td>
+				 <td >Road Maintenance</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Sonarpur</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Dec 2017</td>
+				 <td >-</td>
+				 <td >4</td>
+				 <td >Amrut Project</td>
+			 </tr>
+			 <tr>
+				 <td>L. B. Dutta Hospital Work</td>
+				 <td >Budge-Budge II</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Nov 2017</td>
+				 <td >Jan 2018</td>
+				 <td >2</td>
+				 <td >Maintenance Work</td>
+			 </tr>
+			 <tr>
+				 <td>Bubge –Bubge Auditorium cum Tanning centre</td>
+				 <td >Budge-Budge</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Nov 2017</td>
+				 <td >-</td>
+				 <td >7</td>
+				 <td >Project Work</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Sreerampore</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Nov 2017</td>
+				 <td >-</td>
+				 <td >3</td>
+				 <td >Amrut Project</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Joynagar</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Sep 2016</td>
+				 <td >Apr 2017</td>
+				 <td >4</td>
+				 <td >Amrut Project</td>
+			 </tr>
+			 <tr>
+				 <td>Maintenance of Garden</td>
+				 <td >Rajarhat</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Aug 2017</td>
+				 <td >-</td>
+				 <td >3</td>
+				 <td >Gardening</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Bankura</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >May 2017</td>
+				 <td >-</td>
+				 <td >9</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>MS Pipeline Network</td>
+				 <td >Dhupguri</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2017</td>
+				 <td >Nov 2017</td>
+				 <td >7</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Panaskura</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Aug 2016</td>
+				 <td >May 2017</td>
+				 <td >4</td>
+				 <td >UIDSSMT Project</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >English Bazar Malda Zone-5</td>
+				 <td class="table-success" >Completed</td>
+				 <td >May 2016</td>
+				 <td >Nov 2016</td>
+				 <td >4</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >English Bazar Malda Zone-3</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Mar 2016</td>
+				 <td >Aug 2016</td>
+				 <td >3</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Balurghat</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2016</td>
+				 <td >July 2016</td>
+				 <td >4</td>
+				 <td >JNNURM Project</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Malda</td>
+				 <td class="table-ongoing" >Ongoing</td>
+				 <td >Dec 2015</td>
+				 <td >-</td>
+				 <td >15</td>
+				 <td >Water Supply Project</td>
+			 </tr>
+			 <tr>
+				 <td>Amtala –Baruipur Road</td>
+				 <td >Amtala</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Aug 2015</td>
+				 <td >Sep 2015</td>
+				 <td >3</td>
+				 <td >14th F.C.</td>
+			 </tr>
+			 <tr>
+				 <td>Chandakhali-Dadpur Road</td>
+				 <td >Charan</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2015</td>
+				 <td >May 2015</td>
+				 <td >3</td>
+				 <td >14th F.C.</td>
+			 </tr>
+			 <tr>
+				 <td>Baruipur-Champahati Link Road</td>
+				 <td >Baruipur</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2015</td>
+				 <td >Apr 2015</td>
+				 <td >3</td>
+				 <td >14th F.C.</td>
+			 </tr>
+			 <tr>
+				 <td>D.I. Pipeline Network</td>
+				 <td >Diamond Harbour</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Aug 2015</td>
+				 <td >Jan 2016</td>
+				 <td >5</td>
+				 <td >Water Supply</td>
+			 </tr>
+			 <tr>
+				 <td>A.B. Road to Fatepur Road</td>
+				 <td >Birbhum</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Oct 2014</td>
+				 <td >Dec 2014</td>
+				 <td >2</td>
+				 <td >Road Construction</td>
+			 </tr>
+			 <tr>
+				 <td>Bituminous Road Refilling Station to coutainer year</td>
+				 <td >Haldia</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Aug 2014</td>
+				 <td >Oct 2014</td>
+				 <td >4</td>
+				 <td >Road Construction</td>
+			 </tr>
+			 <tr>
+				 <td>Low Cost Housing Scheme Under Minority</td>
+				 <td >Jaynagar</td>
+				 <td class="table-success" >Completed</td>
+				 <td >May 2013</td>
+				 <td >Sept 2013</td>
+				 <td >3</td>
+				 <td >Gitanjali</td>
+			 </tr>
+			 <tr>
+				 <td>Mastic Road–Nimak Mohar Road to Parking Yard</td>
+				 <td >Kolkata Port Trust</td>
+				 <td class="table-success" >Completed</td>
+				 <td >Jan 2013</td>
+				 <td >June 2013</td>
+				 <td >4</td>
+				 <td >Mastic project</td>
+			 </tr>
+		 </tbody>
+	 </table>
 			<div class="clearfix"></div>
 	</div>
 	</div>
@@ -759,7 +1050,7 @@ Author E-Mail: vishalk.engg@gmail.com
 								<div class="col-sm-8 col-sm-offset-2">
 
 									<p>I accept all challenges for my role as an Office Incharge for the company. My role is versatile and efforts are challenging. I wish to see the company to flourish worldwide. All of us together mke the pillars of the company.</p>
-									<h5>[Name] (O.I.C.)</h5>
+									<h5>Nabonita Moyra (O.I.C.)</h5>
 								</div>
 							</div>
 						</blockquote>

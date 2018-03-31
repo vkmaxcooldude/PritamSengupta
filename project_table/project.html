@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<style>
+.table-css{
+  font-family: 'Titillium Web', sans-serif;
+  color: white;
+  background: #ff5f6d; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #ff5f6d, #ffc371); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #ff5f6d, #ffc371); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  margin: auto;
+  padding-top: 1.5em;
+}
+.table-padding{
+    padding-top: 2em;
+    padding-bottom: 2.5em;
+}
+h2{
+  font-family: 'Titillium Web', sans-serif;
+}
+th{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+td{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.15em;
+  text-align: center;
+  word-wrap: break-word;
+}
+.table-success{
+  font-weight: bold;
+  color: green;
+  text-shadow: 1px 1px 2px black, 0 0 25px cyan, 0 0 5px yellow;
+}
+
+.table-ongoing{
+  text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px orange;
+  font-weight: bold;
+  color: #ff9900;
+}
+.scrollit{
+  overflow: scroll;
+  height: 400px;
+}
+tr:hover{
+  background: linear-gradient(141deg, #2cb5e8 0%, #1fc8db 51%, #0fb8ad 75%);
+}
+</style>
+<body>
+<div class="container table-padding">
+  <h2 align=center>PROJECTS</h2>
+ <table class="table table-hover table-css">
+    <thead>
+      <tr>
+        <th>Name of Project</th>
+        <th>Location</th>
+        <th >Status</th>
+        <th >Start Date</th>
+        <th >End Date</th>
+        <th >Employees Working</th>
+        <th >Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Jalpaiguri</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Apr 2018</td>
+        <td >-</td>
+        <td >7</td>
+        <td >Amrut Project</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Burdwan</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Apr 2018</td>
+        <td >-</td>
+        <td >11</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Ashoknagar</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Mar 2018</td>
+        <td >-</td>
+        <td >9</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>Bawali to Akulshek</td>
+        <td >Budge-Budge II</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2018</td>
+        <td >Mar 2018</td>
+        <td >2</td>
+        <td >Road Maintenance</td>
+      </tr>
+      <tr>
+        <td>Gotalahat to Kriparampur</td>
+        <td >Bishnupur I</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2018</td>
+        <td >Mar 2018</td>
+        <td >2</td>
+        <td >Road Maintenance</td>
+      </tr>
+      <tr>
+        <td>Burul College to Roypur Bazar</td>
+        <td >Santragachi</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2018</td>
+        <td >Mar 2018</td>
+        <td >4</td>
+        <td >Road Maintenance</td>
+      </tr>
+      <tr>
+        <td>Gotalahat to Bakrahat</td>
+        <td >Bishnupur II</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2018</td>
+        <td >Feb 2018</td>
+        <td >2</td>
+        <td >Road Maintenance</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Sonarpur</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Dec 2017</td>
+        <td >-</td>
+        <td >4</td>
+        <td >Amrut Project</td>
+      </tr>
+      <tr>
+        <td>L. B. Dutta Hospital Work</td>
+        <td >Budge-Budge II</td>
+        <td class="table-success" >Completed</td>
+        <td >Nov 2017</td>
+        <td >Jan 2018</td>
+        <td >2</td>
+        <td >Maintenance Work</td>
+      </tr>
+      <tr>
+        <td>Bubge –Bubge Auditorium cum Tanning centre</td>
+        <td >Budge-Budge</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Nov 2017</td>
+        <td >-</td>
+        <td >7</td>
+        <td >Project Work</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Sreerampore</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Nov 2017</td>
+        <td >-</td>
+        <td >3</td>
+        <td >Amrut Project</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Joynagar</td>
+        <td class="table-success" >Completed</td>
+        <td >Sep 2016</td>
+        <td >Apr 2017</td>
+        <td >4</td>
+        <td >Amrut Project</td>
+      </tr>
+      <tr>
+        <td>Maintenance of Garden</td>
+        <td >Rajarhat</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Aug 2017</td>
+        <td >-</td>
+        <td >3</td>
+        <td >Gardening</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Bankura</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >May 2017</td>
+        <td >-</td>
+        <td >9</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>MS Pipeline Network</td>
+        <td >Dhupguri</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2017</td>
+        <td >Nov 2017</td>
+        <td >7</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Panaskura</td>
+        <td class="table-success" >Completed</td>
+        <td >Aug 2016</td>
+        <td >May 2017</td>
+        <td >4</td>
+        <td >UIDSSMT Project</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >English Bazar Malda Zone-5</td>
+        <td class="table-success" >Completed</td>
+        <td >May 2016</td>
+        <td >Nov 2016</td>
+        <td >4</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >English Bazar Malda Zone-3</td>
+        <td class="table-success" >Completed</td>
+        <td >Mar 2016</td>
+        <td >Aug 2016</td>
+        <td >3</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Balurghat</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2016</td>
+        <td >July 2016</td>
+        <td >4</td>
+        <td >JNNURM Project</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Malda</td>
+        <td class="table-ongoing" >Ongoing</td>
+        <td >Dec 2015</td>
+        <td >-</td>
+        <td >15</td>
+        <td >Water Supply Project</td>
+      </tr>
+      <tr>
+        <td>Amtala –Baruipur Road</td>
+        <td >Amtala</td>
+        <td class="table-success" >Completed</td>
+        <td >Aug 2015</td>
+        <td >Sep 2015</td>
+        <td >3</td>
+        <td >14th F.C.</td>
+      </tr>
+      <tr>
+        <td>Chandakhali-Dadpur Road</td>
+        <td >Charan</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2015</td>
+        <td >May 2015</td>
+        <td >3</td>
+        <td >14th F.C.</td>
+      </tr>
+      <tr>
+        <td>Baruipur-Champahati Link Road</td>
+        <td >Baruipur</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2015</td>
+        <td >Apr 2015</td>
+        <td >3</td>
+        <td >14th F.C.</td>
+      </tr>
+      <tr>
+        <td>D.I. Pipeline Network</td>
+        <td >Diamond Harbour</td>
+        <td class="table-success" >Completed</td>
+        <td >Aug 2015</td>
+        <td >Jan 2016</td>
+        <td >5</td>
+        <td >Water Supply</td>
+      </tr>
+      <tr>
+        <td>A.B. Road to Fatepur Road</td>
+        <td >Birbhum</td>
+        <td class="table-success" >Completed</td>
+        <td >Oct 2014</td>
+        <td >Dec 2014</td>
+        <td >2</td>
+        <td >Road Construction</td>
+      </tr>
+      <tr>
+        <td>Bituminous Road Refilling Station to coutainer year</td>
+        <td >Haldia</td>
+        <td class="table-success" >Completed</td>
+        <td >Aug 2014</td>
+        <td >Oct 2014</td>
+        <td >4</td>
+        <td >Road Construction</td>
+      </tr>
+      <tr>
+        <td>Low Cost Housing Scheme Under Minority</td>
+        <td >Jaynagar</td>
+        <td class="table-success" >Completed</td>
+        <td >May 2013</td>
+        <td >Sept 2013</td>
+        <td >3</td>
+        <td >Gitanjali</td>
+      </tr>
+      <tr>
+        <td>Mastic Road–Nimak Mohar Road to Parking Yard</td>
+        <td >Kolkata Port Trust</td>
+        <td class="table-success" >Completed</td>
+        <td >Jan 2013</td>
+        <td >June 2013</td>
+        <td >4</td>
+        <td >Mastic project</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</body>

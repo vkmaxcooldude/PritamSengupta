@@ -638,6 +638,7 @@ background:url(../images/7.jpg)no-repeat;
     text-align: center;
     font-size: 2em;
     font-weight: bold;
+		text-shadow: 2px 2px 4px #000000;
 }
 
 .wthree-team {
@@ -989,6 +990,60 @@ img.img3{
 	 color:#fff;
  }
 /*-- //blog --*/
+/*-- Projects --*/
+.table{
+	border-radius: 8px;
+	 -moz-border-radius: 8px;
+}
+.table-css{
+  font-family: 'Titillium Web', sans-serif;
+  color: white;
+  background: #ff5f6d; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #ff5f6d, #ffc371); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #ff5f6d, #ffc371); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  margin: auto;
+  padding-top: 1.5em;
+}
+.table-padding{
+    padding-top: 2em;
+    padding-bottom: 2.5em;
+}
+h2{
+  font-family: 'Titillium Web', sans-serif;
+}
+th{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+td{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.15em;
+  text-align: center;
+  word-wrap: break-word;
+}
+.table-success{
+  font-weight: bold;
+  color: green;
+  text-shadow: 1px 1px 2px black, 0 0 25px cyan, 0 0 5px yellow;
+}
+
+.table-ongoing{
+  text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px orange;
+  font-weight: bold;
+  color: #ff9900;
+}
+.scrollit{
+  overflow: scroll;
+  height: 400px;
+}
+tr:hover{
+  background: linear-gradient(141deg, #2cb5e8 0%, #1fc8db 51%, #0fb8ad 75%);
+}
+/*-- //Projects --*/
 /*-- testimonials --*/
 /* Carousel */
 
