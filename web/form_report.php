@@ -65,7 +65,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if ($fname_error == '' and $lname_error == '' and $email_error == '' and $phone_error == '' and $sub_error == '' ){
       $message_body = '';
       $header = 'From:' . "$email" . "\r\n" . 'Reply-To:' . "$email" . "\r\n" . 'X-Mailer: PHP/' . phpversion();
-      $to = 'vishalk.engg@gmail.com';
+      $to = 'ho@pritamsengupta.com';
       $msg = "$fname $lname has sent you an E-mail\n" .
       "From: $email\n" .
       "Subject: $subject\n" .

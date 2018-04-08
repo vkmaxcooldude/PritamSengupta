@@ -1,0 +1,34 @@
+1. Add more photos of Bankura and Jalpaiguri in carousel *done*
+ABOUT US-
+2. Add Pritam Sengupta's photo above his Quote in ABOUT US
+3. Add Father's Quote & Designation of C.E.O. *done*
+LOGO
+4. Quote should be in golden colour, add quote as mentioned in pic.
+SERVICES
+5. Add security Services *done*
+Provodong security services in govt. offices
+CLIENTS
+6. Add MED logo in clients given in E-Mail *done*
+SISTER CNCERNS
+7. Add E-Mail ID of Milan Sengupta senguptam2030@gmail.com *done*
+8. Remove  M/S from M/S SI Enterprises *done*
+9. change BHIM to VHIM *done*
+PROJECTS
+10. Change table background gradient *done*
+11. Change completed font colour to RED *done*
+12. Change Bituminous Road Refilling Station to coutainer year to Bituminous Road Refilling Station to Container Yard *done*
+13. DI Pipeline Bankura, MS Pipeline Network Dhupguri, D.I. Pipeline Network English Bazar, D.I. Pipeline Network Diamond Harbour Description- Amrut Project *done*
+14. Maintenance of Garden to description Nabami Ganga Project *done*
+15. Change Ongoing Font-Colour to GREEN
+TESTIMONIAL
+16. Change name font-color to make it visible *done*
+EMPLOYEES-
+16. Make three cards for advisors first, Employees details next.
+17. Advisors- 
+i) Ghatatkach Haldar
+ii) Namita Sengupta
+iii) Sangeeta Sengupta
+18. Change Bimanesh's Designation to Head Engineer In-Charge *done*
+19. Change Address- India, West Bengal, Kolkata-700141, Maheshtala, North Jagtala, Bata More, Golok Dham Apartment (A-1) *done*
+20. Change Phone- +91 9875633438 *done*
+21. Change E-Mails to- hr@pritamsengupta.com & ho@pritamsengupta.com *done*
