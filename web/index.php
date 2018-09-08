@@ -508,9 +508,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>S.B. Builders</b></h4>
 					<p>Proprietor: <b>JITENDRANATH GHOSH</b></p>
-					<p><i class="fa fa-phone"></i> +91 9836848964</p>
-					<p><i class="fa fa-phone"></i> +91 8167886799</p>
-					<p><i class="fa fa-envelope-o"></i><a href="mailto:amisibhu440@gmail.com"> amisibhu440@gmail.com</a></p>
 					<p><b>Address:</b> 72/A, A. D. ROAD,<br>BUDGE BUDGE, KOLKATA-137.</p>
 				</div>
 			</div>
@@ -521,9 +518,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>CREATIVE MIND</b></h4>
 					<p>Proprietor: <b>MILAN SENGUPTA</b></p>
-					<p><i class="fa fa-phone"></i> +91 9331891629</p>
-					<p><i class="fa fa-phone"></i> +91 9836742120</p>
-					<p><a href="mailto:senguptam2030@gmail.com">senguptam2030@gmail.com</a></p>
 					<p><b>Address:</b> NORTH JAGTALA, MANALI APARTMENT, BATAMORE, MAHESHTALA,<br>KOLKATA-700141</p>
 				</div>
 			</div>
@@ -534,9 +528,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>SONY ROAD LINES</b></h4>
 					<p>Proprietor: <b>SK RAJIB-USH-SHAN &amp; ANIRUDDHYA BOSE.</b></p>
-					<p><i class="fa fa-phone"></i> +91 9836364147</p>
-					<p><i class="fa fa-phone"></i> +91 9830362623</p>
-					<p><i class="fa fa-envelope-o"></i><a href="mailto:roadlinessony@gmail.com"> roadlinessony@gmail.com</a></p>
 					<p><b>Address:</b> PRABIR BHAVAN,<br>NANGI PARBANGLA, MAHESHTALA, KOLKATA-141</p>
 				</div>
 			</div>
@@ -547,8 +538,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>VHIM CONSTRUCTION</b></h4>
 					<p>Proprietor: <b>GHATATKACH HALDER</b></p>
-					<p><i class="fa fa-phone"></i> +91 9733492062</p>
-					<p><a href="mailto:ghatatkachhalder@gmail.com">ghatatkachhalder@gmail.com</a></p>
 					<p><b>Address:</b> NIMPITH, NIMPITH ASHRAM, JAYNAGAR, SOUTH 24 PARGANAS, PIN-743338.</p>
 				</div>
 			</div>
@@ -559,8 +548,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>A.B.J.R ENTERPRISE</b></h4>
 					<p>Proprietor: <b>SHOVAN SENGUPTA</b></p>
-					<p><i class="fa fa-phone"></i> +91 9674803393</p>
-					<p><i class="fa fa-envelope-o"></i><a href="mailto:senguptasovon@gmail.com"> senguptasovon@gmail.com</a></p>
 					<p><b>Address:</b> BATAMORE, SOUTH 24 PGNS (NEAR HAPPY HOME ENGLISH SCHOOL), KOLKATA-141.</p>
 				</div>
 			</div>
@@ -571,8 +558,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>S. I. ENTERPRISE</b></h4>
 					<p>Proprietor: <b>SAGAR CHATTERJEE</b></p>
-					<p><i class="fa fa-phone"></i> +91 9830379583</p>
-					<p><i class="fa fa-envelope-o"></i><a href="mailto:sagargullu1978@gmail.com"> sagargullu1978@gmail.com</a></p>
 					<p><b>Address:</b> M. G. ROAD, KOLKATA- 700082.</p>
 				</div>
 			</div>
@@ -583,7 +568,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>BONY ENTERPRISE</b></h4>
 					<p>Proprietor: <b>MILON SEIKH</b></p>
-					<p><i class="fa fa-phone"></i> +91 9735732462</p>
 					<p><b>Address:</b> S/O BIJUL SEIKH, KEYATALA, BARUIPUR KEYATALA, SOUTH 24 PG, WEST BENGAL- 743372.</p>
 				</div>
 			</div>
@@ -594,8 +578,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>M/s Ajay Dey</b></h4>
 					<p>Proprietor: <b>Ajay Dey</b></p>
-					<p><i class="fa fa-phone"></i> +91 8910699143</p>
-					<p><i class="fa fa-envelope-o"></i><a href="mailto:deyajoy59@gmail.com"> deyajoy59@gmail.com</a></p>
 					<p><b>Address:</b> BATANAGAR, UTTARJAGTALA, MAHESTALA, KOLKATA-700141.</p>
 				</div>
 			</div>
@@ -606,7 +588,6 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="overlay">
 					<h4><b>M.R. Enterprise</b></h4>
 					<p>Proprietor: <b>Chanchal Roy</b></p>
-					<p><i class="fa fa-phone"></i> +91 9830314281</p>
 					<p><b>Address:</b> MALLIEK BAZAR, BATA NAGAR, MAHESHTALA, KOLKATA-140.</p>
 				</div>
 			</div>
@@ -939,7 +920,7 @@ Author E-Mail: vishalk.engg@gmail.com
 			          <div class="card card-css">
 			            <img class="card-img-top" src="images/102.jpg" alt="Card image" style="width:100%">
 			            <div class="card-body">
-			              <h4 class="card-title text-center" style="color: #111; font-weight: bold">BIMANESH BHATTACHARGEE</h4>
+			              <h4 class="card-title text-center" style="color: #111; font-weight: bold">BIMANESH BHATTACHARYA</h4>
 			              <p class="card-text text-center" style="color: #111; font-weight: bold">HEAD ENGINEER I/Ch.</p>
 			            </div>
 			          </div>
@@ -972,7 +953,7 @@ Author E-Mail: vishalk.engg@gmail.com
 			          <div class="card card-css">
 			            <img class="card-img-top" src="images/105.jpg" alt="Card image" style="width:100%">
 			            <div class="card-body">
-			              <h4 class="card-title text-center" style="color: #111; font-weight: bold">SAMUAN ISLAM</h4>
+			              <h4 class="card-title text-center" style="color: #111; font-weight: bold">SAMAUN ISLAM</h4>
 			              <p class="card-text text-center" style="color: #111; font-weight: bold">PROJECT HEAD</p>
 			            </div>
 			          </div>
@@ -1035,24 +1016,6 @@ Author E-Mail: vishalk.engg@gmail.com
 					<div class="jarallax">
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-			          <div class="card card-css">
-			            <img class="card-img-top" src="images/24.jpg" alt="Card image" style="width:100%">
-			            <div class="card-body">
-			              <h4 class="card-title text-center" style="color: #111; font-weight: bold">MD JAVED UDDIN</h4>
-			              <p class="card-text text-center" style="color: #111; font-weight: bold">SITE ENGINEER</p>
-			            </div>
-			          </div>
-			        </div>
-		          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-		            <div class="card card-css">
-		              <img class="card-img-top" src="images/25.jpg" alt="Card image" style="width:100%">
-		              <div class="card-body">
-		                <h4 class="card-title text-center" style="color: #111; font-weight: bold">SUBHAM BANERJEE</h4>
-		                <p class="card-text text-center" style="color: #111; font-weight: bold">SITE ENGINEER</p>
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 		            <div class="card card-css">
 		              <img class="card-img-top" src="images/26.jpg" alt="Card image" style="width:100%">
 		              <div class="card-body">
@@ -1133,7 +1096,7 @@ Author E-Mail: vishalk.engg@gmail.com
 								<div class="col-sm-8 col-sm-offset-2">
 
 									<p>As a Site Engineer, I try to fulfill all my responsibilities given by authority. My hard work and potential are directed for the welfare of the company. I want to see our company to achieve great success. </p>
-									<h5>Bimanesh Bhattachargee (Head Engineer In-Charge)</h5>
+									<h5>Bimanesh BHATTACHARYA (Head Engineer In-Charge)</h5>
 								</div>
 							</div>
 						</blockquote>
@@ -1167,7 +1130,7 @@ Author E-Mail: vishalk.engg@gmail.com
 								<div class="col-sm-8 col-sm-offset-2">
 
 									<p>I work as Project Head in the company. My work is worship to me. I have immense respect for the company and my colleagues. My mindset is work work and work. I want to see our company at the top of its class and all of us will definitely work together to turn our dream into a reality.</p>
-									<h5>Samuan Islam (P.H.)</h5>
+									<h5>SAMAUN Islam (P.H.)</h5>
 								</div>
 							</div>
 						</blockquote>
@@ -1205,6 +1168,7 @@ Author E-Mail: vishalk.engg@gmail.com
 				<div class="col-md-11 col-sm-11 col-xs-11 w3_agile-contact-text">
 					<h5>phone</h5>
 					<p>+91-9875633438</p>
+					<p>+91-8583979647</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>

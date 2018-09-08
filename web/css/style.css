@@ -569,7 +569,7 @@ h3.w3-title {
 	height: auto;
 	margin-left: auto;
   margin-right: auto;
-	padding: 3em 3em 3em 3em;
+	padding: 9vw 5vw 9vw 5vw;;
 }
 
 .sister{
@@ -1321,6 +1321,9 @@ tr:hover{
 	.caption h3 {
 		font-size:2.9em;
 	}
+	.logo-padding{
+		padding: 16vw 5vw 16vw 5vw;
+	}
 }
 @media screen and (max-width: 1080px){
 	div#about {
@@ -1339,6 +1342,9 @@ tr:hover{
 		font-size: 2.7em;
 	}
 	.agile-about-text {
+		padding: 3em 5em 3em 5em;
+	}
+	.logo-padding{
 		padding: 3em 5em 3em 5em;
 	}
 	.w3l-about-content1 {
@@ -1437,6 +1443,9 @@ tr:hover{
 		padding:0;
 	}
 	.agile-about-text {
+		padding: 3em;
+	}
+	.logo-padding{
 		padding: 3em;
 	}
 	video.agile-media {
@@ -1597,6 +1606,9 @@ tr:hover{
 	.agile-about-text {
 		padding: 3em;
 	}
+	.logo-padding{
+		padding: 3em;
+	}
 	.w3ls-service {
 		width: 28.45%;
 	}
@@ -1741,6 +1753,9 @@ tr:hover{
 	.agile-about-text {
 		padding: 2em;
 	}
+	.logo-padding{
+		padding: 2em;
+	}
 	#quote-carousel .carousel-indicators{
 		top: 65%!important;
 	}
@@ -1857,6 +1872,9 @@ tr:hover{
 		margin-bottom:1em;
 	}
 	.agile-about-text {
+		padding: 2em;
+	}
+	.logo-padding{
 		padding: 2em;
 	}
 	.agile-icon {
